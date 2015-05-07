@@ -12,5 +12,8 @@
       "matches": ["*://github.com/*"],
       "js": ["jquery-2.1.4.min.js", "content.js"]
     }
+  ],
+  "web_accessible_resources": [
+    "script.js"
   ]
 }
