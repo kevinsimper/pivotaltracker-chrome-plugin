@@ -3,7 +3,7 @@
 
   "name": "PivotalTracker Story Linkify",
   "description": "This extension makes pivotaltracker shortcuts [#9999999] so you can faster see what task the commit was target to.",
-  "version": "1.0",
+  "version": "1.1",
   "permissions": [
     "activeTab"
   ],
